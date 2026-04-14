@@ -1,0 +1,15 @@
+{
+    "$schema": "https://moddbcdn.vintagestory.at/schema/modinfo.latest.json",
+    "type": "Code",
+    "modid": "waypointteleportation",
+    "name": "WaypointTeleportation",
+    "side": "client",
+    "authors": [
+        "神麤詭末"
+    ],
+    "description": "为新建/编辑路径点的窗口添加坐标显示与传送",
+    "version": "1.0.0",
+    "dependencies": {
+        "game": "1.22.0-rc.1"
+    }
+}
